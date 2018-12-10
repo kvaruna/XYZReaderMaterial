@@ -347,6 +347,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Varun\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\c05d826da891187622bd5c26ff1f1ebd\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,498,604,690,794,912,993,1073,1161,1266,1374,1475,1579,1687,1788,1916,2013,2097",
+                        "endColumns": "108,107,122,102,105,85,103,117,80,79,87,104,107,100,103,107,100,127,96,83,100",
+                        "endOffsets": "159,267,390,493,599,685,789,907,988,1068,1156,1261,1369,1470,1574,1682,1783,1911,2008,2092,2193"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
             "map": [
                 {
@@ -401,21 +416,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-sr_values-sr.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Varun\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\c05d826da891187622bd5c26ff1f1ebd\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,164,272,395,498,604,690,794,912,993,1073,1161,1266,1374,1475,1579,1687,1788,1916,2013,2097",
-                        "endColumns": "108,107,122,102,105,85,103,117,80,79,87,104,107,100,103,107,100,127,96,83,100",
-                        "endOffsets": "159,267,390,493,599,685,789,907,988,1068,1156,1261,1369,1470,1574,1682,1783,1911,2008,2092,2193"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-da_values-da.arsc.flat",
             "map": [
                 {
@@ -461,21 +461,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Varun\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\c05d826da891187622bd5c26ff1f1ebd\\res\\values-ca\\values-ca.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,173,281,404,510,617,700,808,934,1018,1099,1182,1293,1402,1500,1610,1714,1822,1945,2044,2125",
-                        "endColumns": "117,107,122,105,106,82,107,125,83,80,82,110,108,97,109,103,107,122,98,80,100",
-                        "endOffsets": "168,276,399,505,612,695,803,929,1013,1094,1177,1288,1397,1495,1605,1709,1817,1940,2039,2120,2221"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
                 {
@@ -491,16 +476,16 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-is-rIS_values-is-rIS.arsc.flat",
+            "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-ca_values-ca.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Varun\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\c05d826da891187622bd5c26ff1f1ebd\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "source": "C:\\Users\\Varun\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\c05d826da891187622bd5c26ff1f1ebd\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,263,386,483,595,680,781,895,975,1055,1136,1246,1354,1452,1561,1660,1763,1881,1979,2060",
-                        "endColumns": "99,107,122,96,111,84,100,113,79,79,80,109,107,97,108,98,102,117,97,80,100",
-                        "endOffsets": "150,258,381,478,590,675,776,890,970,1050,1131,1241,1349,1447,1556,1655,1758,1876,1974,2055,2156"
+                        "startOffsets": "55,173,281,404,510,617,700,808,934,1018,1099,1182,1293,1402,1500,1610,1714,1822,1945,2044,2125",
+                        "endColumns": "117,107,122,105,106,82,107,125,83,80,82,110,108,97,109,103,107,122,98,80,100",
+                        "endOffsets": "168,276,399,505,612,695,803,929,1013,1094,1177,1288,1397,1495,1605,1709,1817,1940,2039,2120,2221"
                     }
                 }
             ]
@@ -516,6 +501,21 @@
                         "startOffsets": "55,175,283,406,512,619,708,809,933,1017,1098,1185,1292,1404,1506,1614,1721,1828,1950,2049,2134",
                         "endColumns": "119,107,122,105,106,88,100,123,83,80,86,106,111,101,107,106,106,121,98,84,100",
                         "endOffsets": "170,278,401,507,614,703,804,928,1012,1093,1180,1287,1399,1501,1609,1716,1823,1945,2044,2129,2230"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-is-rIS_values-is-rIS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Varun\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\c05d826da891187622bd5c26ff1f1ebd\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,263,386,483,595,680,781,895,975,1055,1136,1246,1354,1452,1561,1660,1763,1881,1979,2060",
+                        "endColumns": "99,107,122,96,111,84,100,113,79,79,80,109,107,97,108,98,102,117,97,80,100",
+                        "endOffsets": "150,258,381,478,590,675,776,890,970,1050,1131,1241,1349,1447,1556,1655,1758,1876,1974,2055,2156"
                     }
                 }
             ]

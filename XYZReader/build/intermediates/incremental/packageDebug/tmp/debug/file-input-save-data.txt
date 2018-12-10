@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Dec 10 12:46:41 IST 2018
+1.base=C\:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=Rosario-Regular.ttf
+0.set=ASSET
+0.base=C\:\\Users\\Varun\\Documents\\Udacity\\XYZReaderMaterial\\XYZReader\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=classes.dex
